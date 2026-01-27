@@ -12,7 +12,7 @@ Servo clampServo;
 
 // === Pin Definitions ===
 #define SERVO_PIN 18
-#define BUZZER_PIN 19
+#define BUZZER_PIN 20
 #define BUTTON_PIN 15
 
 // === Settings ===
